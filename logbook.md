@@ -1,0 +1,132 @@
+- **2023-03-26** final polish
+- **2023-03-26** cli
+- **2023-03-26** readme
+- **2023-03-26** 10 reduce elevation noise
+- **2023-03-26** 7 update noise implementation
+- **2023-03-26** 12 color provider
+- **2023-03-26** 17 add unit test
+- **2023-03-26** 12 island color provider
+- **2023-03-26** 4 remove unused heatmap
+- **2023-03-26** reformat code
+- **2023-03-26** 13 soil absorption
+- **2023-03-26** 10 seed and flat land elevation provider
+- **2023-03-26** 7 fireball
+- **2023-03-26** 8 circle lake provider
+- **2023-03-26** 7 australia
+- **2023-03-26** 8 EllipseLakeProvider2
+- **2023-03-26** 8 EllipseLakeProvider
+- **2023-03-26** 13 river soil absorbtion
+- **2023-03-26** 14 river flow
+- **2023-03-26** 8 circle lake provider
+- **2023-03-26** 10 noise elevation provider
+- **2023-03-26** 7 prelin shape
+- **2023-03-26** 10 sea distance elevation
+- **2023-03-26** 4 heatmap
+- **2023-03-26** border provider
+- **2023-03-26** 5 aquifier provider
+- **2023-03-26** 14 flowing river provider
+- **2023-03-26** 7 apple shape final
+- **2023-03-26** 9 fix river color
+- **2023-03-26** 12 update color provider
+- **2023-03-26** 12 biome provider
+- **2023-03-26** 11 soil absorption
+- **2023-03-26** 5 aquifer
+- **2023-03-26** 7 apple shape class
+- **2023-03-23** 9 basic river
+- **2023-03-23** 9 basic river provider wip
+- **2023-03-23** 9 segments and coordinate class
+- **2023-03-23** add run configuration
+- **2023-03-23** change color of the sea
+- **2023-03-23** workaround for slow visualizer
+- **2023-03-23** 8 lake
+- **2023-03-23** edit configure
+- **2023-03-23** bug fixes
+- **2023-03-23** 8 circle lake provider
+- **2023-03-23** Add color to mesh
+- **2023-03-23** 1 CLI for island
+- **2023-03-23** run island
+- **2023-03-23** island generator mvp
+- **2023-03-23** island generator
+- **2023-03-23** 3 add alpha to color
+- **2023-03-23** 3 fix circle shape
+- **2023-03-23** 1 CLI for island
+- **2023-03-23** 12 color provider
+- **2023-03-23** 6 mountain elevation
+- **2023-03-23** 6 elevation provider
+- **2023-03-23** 4 heatmap provider
+- **2023-03-23** 3 shape
+- **2023-03-23** create island project
+- **2023-02-27** add alpha to color
+- **2023-02-27** remove temp code
+- **2023-02-27** add logbook
+- **2023-02-27** update readme
+- **2023-02-27** Merge pull request #18 from 2AA4-W23/step2-readme
+- **2023-02-27** Edit Backlog
+- **2023-02-27** Edit Backlog
+- **2023-02-27** Merge branch 'main' into step2-readme
+- **2023-02-27** Merge pull request #17 from 2AA4-W23/logging-pega
+- **2023-02-27** add logs for visualizer
+- **2023-02-27** add logs for visualizer
+- **2023-02-27** add logs for generator
+- **2023-02-27** Edit readme file for step2
+- **2023-02-27** Merge remote-tracking branch 'origin/debug-mode'
+- **2023-02-27** Merge pull request #15 from 2AA4-W23/pega-refactor
+- **2023-02-27** update readme
+- **2023-02-27** debug mode
+- **2023-02-27** refactor
+- **2023-02-27** Merge branch 'main' into pega-refactor
+- **2023-02-27** property adt
+- **2023-02-27** Merge pull request #14 from 2AA4-W23/test-grace-2
+- **2023-02-27** generator-test-Step3
+- **2023-02-27** Merge pull request #13 from 2AA4-W23/CLA_thickness_option
+- **2023-02-27** set centroid color
+- **2023-02-27** set centroid color
+- **2023-02-27** CLA thickness done
+- **2023-02-27** refactor
+- **2023-02-27** CLA segment thickness option
+- **2023-02-25** merge tests
+- **2023-02-25** Merge branch 'test-grace'
+- **2023-02-25** Merge pull request #12 from 2AA4-W23/bonus-grace
+- **2023-02-25** bonus
+- **2023-02-25** Merge pull request #10 from 2AA4-W23/voronoi-pega
+- **2023-02-25** fix grid generating bugs
+- **2023-02-25** fix cli
+- **2023-02-25** CLA done
+- **2023-02-25** Merge remote-tracking branch 'origin/voronoi-pega' into voronoi-pega
+- **2023-02-25** add run configs
+- **2023-02-25** CLA change width height squareSize
+- **2023-02-25** test-generator
+- **2023-02-24** CLAgridORirregularMesh
+- **2023-02-24** CLAgridORirregularMesh
+- **2023-02-22** tests
+- **2023-02-22** small refactor
+- **2023-02-22** Voronoi diagram, relaxiation, Delaunay’s triangulation
+- **2023-02-22** ColorTest
+- **2023-02-22** Merge remote-tracking branch 'origin/main'
+- **2023-02-22** Merge remote-tracking branch 'origin/main' into debug-mode
+- **2023-02-22** Merge pull request #5 from 2AA4-W23/fix-debt-pega
+- **2023-02-22** Merge pull request #8 from 2AA4-W23/centroid
+- **2023-02-22** centroid
+- **2023-02-22** Merge pull request #7 from 2AA4-W23/Thickness-Color-Frank
+- **2023-02-22** format
+- **2023-02-22** add thickness color
+- **2023-02-13** change author name
+- **2023-02-13** Merge pull request #4 from 2AA4-W23/pega-name
+- **2023-02-13** format
+- **2023-02-13** is debug mode check
+- **2023-02-13** add log4j to project
+- **2023-02-13** add parameters to dotgen
+- **2023-02-12** change author name
+- **2023-02-10** Merge pull request #3 from 2AA4-W23/adt-pega
+- **2023-02-10** revert accidental changes in visualizer
+- **2023-02-10** change visibility modifiers
+- **2023-02-10** new mesh adt
+- **2023-02-10** adt classes finished
+- **2023-02-10** polygon adt
+- **2023-02-10** create adt for color, mesh, segment and vertex
+- **2023-02-08** Merge pull request #2 from 2AA4-W23/1b-pega
+- **2023-02-08** 1b renderer
+- **2023-02-08** 1b dotgen
+- **2023-01-31** Merge pull request #1 from 2AA4-W23/change-name-frank
+- **2023-01-31** change name
+- **2023-01-30** Initial commit

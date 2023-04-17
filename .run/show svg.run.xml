@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="show svg" type="JavascriptDebugType" uri="http://localhost:63343/a2---mesh-generator-team-20/2aa4.mesh.visualizer/sample.svg" useBuiltInWebServerPort="true">
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="island" run_configuration_type="MavenRunConfiguration" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="visualizer" run_configuration_type="MavenRunConfiguration" />
+    </method>
+  </configuration>
+</component>

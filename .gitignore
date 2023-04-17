@@ -1,0 +1,10 @@
+.idea
+target
+.vscode
+*.jar
+*.class
+*.mesh
+*.iml
+*.svg
+
+.attach_*

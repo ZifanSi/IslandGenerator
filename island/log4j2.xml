@@ -1,0 +1,17 @@
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} | %-5level %logger{36} | %msg%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <SystemPropertyArbiter propertyName="env" propertyValue="debug">
+            <Logger name="ca.mcmaster.cas.se2aa4.a2.visualizer" level="trace" additivity="false">
+                <AppenderRef ref="LogToConsole"/>
+            </Logger>
+        </SystemPropertyArbiter>
+        <Root level="error">
+            <AppenderRef ref="LogToConsole"/>
+        </Root>
+    </Loggers>
+</Configuration>
